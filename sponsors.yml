@@ -1,0 +1,14 @@
+- tier: Platinum
+  logos: 
+    - defense.png
+- tier: Gold
+  logos:
+    - google.png
+- tier: Silver
+  logos:
+    - ardc.png
+- tier: Bronze
+  logos: 
+    - commonwealth.png
+    - unimelb.png
+

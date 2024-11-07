@@ -1,0 +1,46 @@
+- members:
+  - first_name: Gabriela 
+    last_name: Ferraro
+    institution: The Australian National University
+  role: General Chair
+- members:
+  - first_name: Tim
+    last_name: Baldwin
+    institution: The University of Melbourne
+  - first_name: Sergio
+    last_name: José Rodríguez Méndez
+    institution: The Australian National University
+  - first_name: Nicholas
+    last_name: Kuo  
+    institution: University of New South Wales   
+  role: Program Chairs
+ - members:
+  - first_name: Anton
+    last_name: Malko 
+    institution: The Australian National University
+  role: Publication Chair
+- members:
+  - first_name: Dawei
+    last_name: Chen 
+    institution: The Australian National University
+  role: Technology Chair
+- members:
+  - first_name: Shunichi
+    last_name: Ishihara 
+    institution: The Australian National University
+  role: Finance Chair 
+ - members:
+  - first_name: Charbel
+    last_name: El-Khaissi 
+    institution: The Australian National University
+  role: Sponsorship Chair 
+- members:
+  - first_name: Ned
+    last_name: Cooper 
+    institution: The Australian National University
+  role: Local Chair
+- members:
+  - first_name: Kathy
+    last_name: Reid
+    institution: The Australian National University
+  role: Publicity Chair
